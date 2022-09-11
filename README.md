@@ -1,6 +1,6 @@
 ## Welcome to my GitHub!
 
-### Hello, I'm NotSmart
+### Hello, I'm Alex
  Currently a highschooler who enjoys writing code in their free time.
 
 ### Currently Working On:
