@@ -10,4 +10,4 @@
 ### Business Inquiries?
 Email me at alexandersmart2005@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aasmart&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aasmart&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
