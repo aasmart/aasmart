@@ -3,7 +3,6 @@
 ### Hello, I'm Alex
  - I'm passionate about computer science, programming, and what they're capable of doing for the world.
  - When I'm not programming, I sometimes work on furthering my artistic abilities through Blender or sketching (I may also just be playing some games)
- - Basically a full time gymnast, student, and developer
 
 ### Currently Working On:
  - Take a Break: an application focused around staying physically active while sitting at your computer
