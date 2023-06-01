@@ -5,7 +5,7 @@
  - When I'm not programming, I sometimes work on furthering my artistic abilities through Blender or sketching (I may also just be playing some games)
 
 ### Currently Working On:
- - Take a Break: an application focused around staying physically active while sitting at your computer
+ - Nudege: an app focused on creating reminders to change unhealthy habits while at your computer
  - Scorekeeper: a silly little app to make keeping score during family game nights a little easier
  - A game created with Unity
  
