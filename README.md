@@ -10,6 +10,6 @@
  - A game created with Unity
  
 ### I'm Willing to Do Commisions!
-Email me at aasmart@aasmart.dev
+Email me at alex@aasmart.dev
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aasmart&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
