@@ -2,7 +2,7 @@
 
 ### Hello, I'm Alex
  - I'm passionate about computer science, programming, and what they're capable of doing for the world.
- - When I'm not programming, I sometimes work on furthering my artistic abilities through Blender or sketching (I may also just be playing some games)
+ - When I'm not programming, I'm playing video games, 3D modeling, or petting some kind of animal
 
 ### Currently Working On:
  - Nudege: an app focused on creating reminders to change unhealthy habits while at your computer
