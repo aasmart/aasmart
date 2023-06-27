@@ -6,7 +6,7 @@
 
 ### Currently Working On:
  - Nudge: an app focused on creating reminders to change unhealthy habits while at your computer
- - Scorekeeper: a silly little app to make keeping score during family game nights a little easier
+ - Scorekeeper: Inspired by family game nights that I wanted to collect data about, I'm working on an app to make keeping score during family game nights a little easier
  - Games created using the Unity game Engine
  
 ### I'm Willing to Do Commisions!
