@@ -2,7 +2,7 @@
 
 ### Hello, I'm Alex
  - I'm passionate about computer science, programming, and what they're capable of doing for the world.
- - When I'm not programming, I'm playing video games, 3D modeling, or petting some kind of animal
+ - When I'm not programming, I'm likely pursuing other passions like art or playing some video games.
 
 ### Currently Working On:
  - Nudge: an app focused on creating reminders to change unhealthy habits while at your computer
