@@ -10,7 +10,10 @@
  - Games created using the Unity game Engine
  - Connect Four: a project to learn backend and frontened development
  
-### I'm Willing to Do Commisions!
-Email me at alex@aasmart.dev
+### Desmos Graphs
+I enjoy the intersection of math and computer science, and I sometimes express that through creating neat graphs in Desmos. Here's a showcase of a few of them
+- [Metaballs!](https://www.desmos.com/calculator/6dxieehxvv)
+- [Tic Tac Toe](https://www.desmos.com/calculator/tlmmdmgpzj)
+- [Splines](https://www.desmos.com/calculator/60j7ulck6v)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aasmart&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
